@@ -14,3 +14,6 @@ This project is a simple shopping mall system that allows users to interact with
 
 ### Usage
 Run `php artisan test` to run the tests and see the results.
+
+### Authentication
+The API uses Laravel Sanctum for authentication.
